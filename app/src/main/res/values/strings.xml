@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorldKotlin</string>
+    <string name="le_intro">Hello World! My name is Trong Le and I am learning Android Development</string>
+    <string name="hello_button">Say Hello</string>
+    <string name="light_theme">Light theme</string>
+    <string name="dark_theme">Dark theme</string>
+</resources>
